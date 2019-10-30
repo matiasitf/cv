@@ -1,0 +1,28 @@
+body {
+  background-color: #00818a;
+}
+hr {
+  border-style: double none none;
+  border-color: #800080;
+  border-width: 10px;
+  width: 80%;
+}
+h1 {
+  color: #293462;
+}
+h3 {
+  color: #01d28e;
+}
+p {
+color: #64b2cd;
+}
+label {
+  color: #64b2cd;
+}
+ul {
+  color: #64b2cd;
+}
+table {
+  color: #64b2cd;
+  border: white;
+}
